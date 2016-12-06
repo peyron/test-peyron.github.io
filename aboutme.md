@@ -1,16 +1,14 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle:
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I'm glad you found your way to my website!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+This site is still under construction so please look out for updates!
 
-What else do you need?
 
-### my history
+### So who am I really?
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Born and raised in Stockholm, Sweden and currently working for [Avaus](http://www.avaus.fi/) as an analyst. I really do enjoy my work and dwell in the ares of data science and machine learning. Curiousity is what drives me and I have definitely chosen to tight area to work in where I will always find more topics such as methods for modelling and more to explore.
